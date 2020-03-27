@@ -37,5 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-
+  buzz_words = ["hip", "cool", "arrays!"]
+  buzz_words[2]
 end

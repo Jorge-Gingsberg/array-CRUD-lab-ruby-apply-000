@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   buzz_words = ["wow", "cool", "rad"]
-  wow! = buzz_words.shift
+  wow = buzz_words.shift
 end
 
 def retrieve_element_from_index(array, index_number)
